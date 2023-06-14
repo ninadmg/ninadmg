@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ninadmg
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android and flutter
 - 📫 How to reach me @ninad_mg in twitter
 
 <!---
